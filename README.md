@@ -1,3 +1,3 @@
-Microbiome Bioinformatics Trainings
+Microbiome Bioinformatics Training
 
 Learner: Dr Guy Roussel Takuissu Nguemto
