@@ -9,5 +9,4 @@ data/*
 # MultiQC generated reports
 results/multiqc/
 
-# MultiQC generated reports
-results/multiqc/
+
