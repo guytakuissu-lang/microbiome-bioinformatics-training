@@ -6,3 +6,8 @@ data/*
 *.fq.gz
 .RData
 .Rhistory
+# MultiQC generated reports
+results/multiqc/
+
+# MultiQC generated reports
+results/multiqc/
