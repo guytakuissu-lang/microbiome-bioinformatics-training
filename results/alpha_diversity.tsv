@@ -1,0 +1,4 @@
+sample_id	observed_asvs	shannon	simpson_1_minus_D	group	age	sex
+S01	5	1.212	0.629	T2D	55	M
+S02	6	1.441	0.699	Control	52	F
+S03	6	1.21	0.629	T2D	61	F
