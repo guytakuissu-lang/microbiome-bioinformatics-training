@@ -1,0 +1,4 @@
+taxon	baseline_count	after_A_doubles_count	baseline_relative_pct	after_A_doubles_relative_pct	absolute_count_change	relative_percentage_point_change
+Taxon_A	100	200	33.33	50.00	100	16.67
+Taxon_B	100	100	33.33	25.00	0	-8.33
+Taxon_C	100	100	33.33	25.00	0	-8.33
