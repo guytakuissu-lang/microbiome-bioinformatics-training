@@ -1,0 +1,7 @@
+Feature_ID	Domain	Phylum	Class	Order	Family	Genus
+ASV001	Bacteria	Bacillota	Clostridia	Oscillospirales	Lachnospiraceae	Blautia
+ASV002	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides
+ASV003	Bacteria	Bacillota	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium
+ASV004	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella
+ASV005	Bacteria	Actinomycetota	Actinomycetia	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium
+ASV006	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia
