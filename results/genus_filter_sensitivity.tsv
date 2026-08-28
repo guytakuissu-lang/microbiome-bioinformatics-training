@@ -1,0 +1,13 @@
+detection_threshold	minimum_prevalence_fraction	minimum_prevalence_percent	number_retained	number_excluded	retained_genera	excluded_genera
+1	0.333333	33.333333	6	0	Akkermansia;Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	
+1	0.666667	66.666667	6	0	Akkermansia;Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	
+1	1.000000	100.000000	5	1	Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	Akkermansia
+5	0.333333	33.333333	6	0	Akkermansia;Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	
+5	0.666667	66.666667	6	0	Akkermansia;Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	
+5	1.000000	100.000000	5	1	Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	Akkermansia
+10	0.333333	33.333333	6	0	Akkermansia;Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	
+10	0.666667	66.666667	5	1	Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	Akkermansia
+10	1.000000	100.000000	4	2	Bacteroides;Bifidobacterium;Blautia;Faecalibacterium	Akkermansia;Escherichia-Shigella
+20	0.333333	33.333333	5	1	Bacteroides;Bifidobacterium;Blautia;Escherichia-Shigella;Faecalibacterium	Akkermansia
+20	0.666667	66.666667	4	2	Bacteroides;Bifidobacterium;Blautia;Faecalibacterium	Akkermansia;Escherichia-Shigella
+20	1.000000	100.000000	4	2	Bacteroides;Bifidobacterium;Blautia;Faecalibacterium	Akkermansia;Escherichia-Shigella

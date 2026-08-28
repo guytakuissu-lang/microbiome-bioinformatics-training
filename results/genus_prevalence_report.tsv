@@ -1,0 +1,7 @@
+Genus	total_count	mean_count	samples_detected	number_of_samples	prevalence_fraction	prevalence_percent	keep_training_filter
+Akkermansia	23	7.666667	1	3	0.333333	33.333333	False
+Bacteroides	135	45.000000	3	3	1.000000	100.000000	True
+Bifidobacterium	225	75.000000	3	3	1.000000	100.000000	True
+Blautia	350	116.666667	3	3	1.000000	100.000000	True
+Escherichia-Shigella	40	13.333333	2	3	0.666667	66.666667	True
+Faecalibacterium	830	276.666667	3	3	1.000000	100.000000	True
