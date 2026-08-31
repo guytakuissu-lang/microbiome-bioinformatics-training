@@ -1,0 +1,13 @@
+Genus	group_T2D_log_effect	age_per_10_years_log_effect	sex_Male_log_effect	metformin_Yes_log_effect	batch_Batch2_log_effect
+Genus_01	0	0	0	0	0
+Genus_02	0	0	0	0	0
+Genus_03	0.7	0	0	0	0
+Genus_04	0	0.25	0	0	0
+Genus_05	0	0	0.35	0	0
+Genus_06	0	0	0	0	0
+Genus_07	-0.6	0	0	0	0
+Genus_08	0	0	0	0	0
+Genus_09	0	0	0	0	0
+Genus_10	0	0	0	0.8	0
+Genus_11	0	0	0	0	0
+Genus_12	0	0	0	0	0.7

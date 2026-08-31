@@ -3,6 +3,7 @@ data/*
 !data/example_metadata.tsv
 !data/example_feature_table.tsv
 !data/example_taxonomy.tsv
+!data/simulated_ancombc_*.tsv
 *.fastq
 *.fastq.gz
 *.fq

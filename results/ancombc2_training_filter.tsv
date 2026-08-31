@@ -1,0 +1,13 @@
+Genus	detection_threshold	detection_prevalence	minimum_required_prevalence	retained
+Genus_01	10	1	0.2	TRUE
+Genus_02	10	1	0.2	TRUE
+Genus_03	10	1	0.2	TRUE
+Genus_04	10	1	0.2	TRUE
+Genus_05	10	1	0.2	TRUE
+Genus_06	10	1	0.2	TRUE
+Genus_07	10	1	0.2	TRUE
+Genus_08	10	1	0.2	TRUE
+Genus_09	10	1	0.2	TRUE
+Genus_10	10	1	0.2	TRUE
+Genus_11	10	0.483333333333333	0.2	TRUE
+Genus_12	10	0.05	0.2	FALSE
