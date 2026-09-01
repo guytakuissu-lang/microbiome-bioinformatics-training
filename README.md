@@ -78,7 +78,13 @@ cd microbiome-bioinformatics-training
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
-python -m pip install numpy pandas matplotlib
+python -m pip install -r requirements.txt
+```
+
+`requirements.txt` pins the direct Python dependencies used by the versioned analysis scripts. After installation, verify that the environment has no known dependency conflicts:
+
+```bash
+python -m pip check
 ```
 
 FastQC and MultiQC must also be installed before repeating their respective QC modules. Installation should follow the package manager and institutional computing environment being used.
@@ -320,7 +326,6 @@ Generated tables and figures are retained in this training repository to make ea
 - The ANCOM-BC2 simulation contains only 12 genera and is unsuitable for performance benchmarking.
 - Only one simulated realization has been analyzed.
 - No independent biological dataset is included.
-- Python dependencies are not yet locked in a `requirements.txt` or equivalent environment file.
 - The repository does not yet implement contamination-aware low-biomass workflows, repeated-measures designs, shotgun metagenomics, virome analysis, or workflow orchestration with Nextflow.
 
 The next methodological priority is a larger, repeated simulation with more than 50 taxa, prespecified performance metrics, and multiple scenarios for sparsity, effect size, treatment imbalance, and filtering. This should precede any claim about power, false-discovery control, or comparative method performance.
