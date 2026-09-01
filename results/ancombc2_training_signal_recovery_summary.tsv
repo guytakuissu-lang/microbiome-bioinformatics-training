@@ -1,0 +1,6 @@
+covariate	analyzed_taxa	simulated_signals	robust_discoveries	detected_simulated_signals	missed_simulated_signals	robust_discoveries_at_simulated_null	median_absolute_estimate_error
+T2D group	11	2	2	2	0	0	0.14529851240522
+Age	11	1	0	0	1	0	0.0571781564996632
+Male sex	11	1	0	0	1	0	0.0482647248604692
+Metformin	11	1	1	1	0	0	0.094137685223136
+Batch 2	11	0	0	0	0	0	0.0809651183664535
